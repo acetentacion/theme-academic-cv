@@ -33,12 +33,12 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:edgiepojadas@gmail.com'
+    url: 'mailto:pojadasedgie@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/edgieacepojadas
+    url: https://www.linkedin.com/in/edgieace
   - icon: brands/github
-    url: https://github.com/edgiepojadas
+    url: https://github.com/acetentacion
 
 interests:
   - Network Security
@@ -48,7 +48,7 @@ interests:
   - Documentation & SOPs
 
 education:
-  - area: Bachelor of Science in Information Technology
+  - area: Bachelor of Science in Computer Science
     institution: ACLC College
     summary: |
       Specialized in networking, systems administration, and IT support. Developed hands-on experience managing Windows Server environments and deploying web-based applications.
@@ -69,6 +69,13 @@ work:
     summary: |2-
       - Provided technical support for cloud services and Microsoft 365 environments
       - Built automations integrating CRMs, email, and workflows using Zapier and Make.com
+  - position: Graphic Designer
+    company_name: Art Battle International
+    date_start: 2022-06-01
+    date_end: Present
+    summary: |2-
+      - Created Promotional Graphics, Flyers and Digital Ads
+      - Managed Social Media Posting
   - position: System Administrator
     company_name: DNA Micro
     date_start: 2022-07-01
@@ -83,6 +90,7 @@ work:
     summary: |2-
       - Provided support for hardware/software/network issues
       - Deployed and managed Windows Server 2016 environments
+  
 
 skills:
   - name: Network & Systems
