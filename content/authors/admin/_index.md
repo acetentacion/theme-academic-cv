@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Edgy Eys
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Edgie Ace
+last_name: Pojadas
 
 # Status emoji
 status:
@@ -20,110 +20,112 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: System Administrator | IT Tech Support Specialist | Graphic Artist 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Ever Ascend Solutions
+    url: https://everascendsolutions.site
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'pojadasedgie@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/pojadasedgie
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/acetentacion
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/edgieace
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Computer Hardware Thinkering
   - Information Retrieval
+  - Cyber Security Research
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science in Computer Science
+    institution: ACLC College of Butuan
+    date_start: 2014-01-01
+    date_end: 2018-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Completed a 4-year degree program focused on software development, networking, and systems administration. Hands-on experience in configuring Windows Server environments, network topologies, and systems troubleshooting.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      text: 'View School'
+      url: 'https://www.aclcbutuan.com'  # Replace with actual if available
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Freelance Network Engineer
+    company_name: Ever Ascend Solutions
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Designed and implemented secure on-site and cloud-based network infrastructures
+      - Managed on-site servers, databases, and automated backup systems
+      - Conducted troubleshooting and network performance optimization for clients
+      
+  - position: Customer Success Lead
+    company_name: Automate.io
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-12-01
+    date_end: 2024-03-31
+    summary: |2-
+      - Provided technical support for Microsoft 365, Azure, and Sophos Firewall products
+      - Managed client onboarding and automated CRM integrations via Zapier and Make.com
+      - Documented SOPs and led cloud/email migration projects
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+  - position: System Administrator
+    company_name: DNA Micro
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-07-01
+    date_end: 2023-01-31
+    summary: |2-
+      - Managed Windows Server infrastructure and domain environments
+      - Implemented and maintained backup and disaster recovery processes
+      - Provided L2/L3 support for network and system issues
+
+  - position: Technical Support Specialist
+    company_name: ACLC College
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-06-01
+    date_end: 2022-06-30
+    summary: |2-
+      - Supported faculty and students in resolving software/hardware issues
+      - Configured classroom networks, lab systems, and campus-wide internet
+      - Handled initial server deployments and local web hosting setups
+
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Networking & Firewalls (Cisco, Sophos)
+        description: ''
+        percent: 90
+        icon: shield-check
+      - name: Windows Server & Backup Systems
+        description: ''
+        percent: 85
+        icon: server
+      - name: Automation (Zapier, Make.com)
+        description: ''
+        percent: 70
+        icon: bolt
+      - name: MySQL & Web Server (Nginx/Apache)
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: database
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,15 +146,11 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Filipino
+    percent: 100
+  - name: Cebuano
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -160,27 +158,25 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Studied foundational concepts of deep learning. Learned to build and train fully connected neural networks and apply them to real-world problems.
+
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      Covered blockchain mechanics, including Bitcoin and Ethereum systems. Learned about consensus models and smart contracts.
+
+  - title: Object-Oriented Programming in R
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      Gained practical experience in using S3 and R6 systems for object-oriented programming in R. Learned to manage code complexity and create reusable components.
 
-## About Me
+about_me: |
+  I’m a network and systems professional with experience in infrastructure design, system administration, and technical support. I specialize in secure network architecture, server deployment, automation, and backup solutions for businesses of all sizes. I’m passionate about continuous learning and making complex systems simple and reliable for end users.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
