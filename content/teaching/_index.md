@@ -20,4 +20,6 @@ sections:
     design:
       view: article-grid
       columns: 2
+url_slides: https://example.com/my-slides.ppt
+  
 ---
