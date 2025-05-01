@@ -1,13 +1,17 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Lead Automation with Microsoft 365 to CRM
+date: 2024-02-15
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Automation
+  - Microsoft 365
+  - CRM
+  - Zapier
+  - Make.com
+external_link: https://www.linkedin.com/in/edgiepojadas/
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+At Automate.io, I led a project integrating Microsoft 365 leads into our CRM system using **Zapier** and **Make.com**, automating data flows, email notifications, and updates across multiple platforms. This significantly reduced manual input and improved lead response time.
 
 <!--more-->
+
+
