@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here are a few standout projects I’ve worked on over the years, from upgrading a college's entire network infrastructure to automating lead workflows for a SaaS company. Each one taught me something new—and made things work better for the people using them.
       filters:
         folders:
           - project
