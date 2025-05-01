@@ -15,5 +15,5 @@ main:
     url: projects/
     weight: 30
   - name: Portfolio
-    url: portfolio/
+    url: teaching/
     weight: 40
