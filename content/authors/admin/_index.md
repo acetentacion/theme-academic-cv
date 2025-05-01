@@ -126,6 +126,12 @@ skills:
       - name: hMailServer / SMTP Email Hosting
         percent: 75
         icon: envelope
+  - name: Creative & Design
+    items:
+      - name: Graphic Design (Photoshop, Illustrator, Canva)
+        percent: 85
+        icon: paint-brush
+      - name: Video Editing (Adobe Premiere, Sony Vegas)
 
 languages:
   - name: English
