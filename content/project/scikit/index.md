@@ -1,6 +1,6 @@
 ---
 title: Project Sigma Infrastructure Deployment & Security
-date: 2024-06-01 to 2024-11-01
+date: 2024-06-01
 external_link: https://www.linkedin.com/in/edgieace
 tags:
   - Network Infrastructure
