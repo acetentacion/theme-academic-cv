@@ -1,13 +1,21 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Project Sigma Infrastructure Deployment & Security
+date: 2024-06-01 to 2024-11-01
+external_link: https://www.linkedin.com/in/edgieace
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Network Infrastructure
+  - Security
+  - Cloudflare
+  - Nginx
+  - MySQL Backup
+  - ZeroTier
+  - hMailServer
+  - Cisco Firepower
+  - Cisco 350 Series
+  - VLAN Segmentation
+  - SSL
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Led the deployment and optimization of IT infrastructure for Project Sigma, a multi-module, web-based management system, enhancing system reliability, access to applications, and department efficiency.
 
 <!--more-->
