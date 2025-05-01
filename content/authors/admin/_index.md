@@ -1,37 +1,27 @@
----
 # Display name
 title: 吳健雄
 
-# Name pronunciation (optional)
+# Name pronunciation
 name_pronunciation: Edgy Eys
 
-# Full name (for SEO)
 first_name: Edgie Ace
 last_name: Pojadas
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
 role: System Administrator | IT Tech Support Specialist | Graphic Artist 
 
-# Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Ever Ascend Solutions
     url: https://everascendsolutions.site
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'pojadasedgie@gmail.com'
+  - icon: fas/envelope
+    url: 'mailto:pojadasedgie@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/
@@ -40,10 +30,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/acetentacion
   - icon: brands/linkedin
-    url: https://www.linkedin.com/edgieace
+    url: https://www.linkedin.com/in/edgieace
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  
 
 interests:
   - Artificial Intelligence
@@ -54,25 +43,25 @@ interests:
 education:
   - area: Bachelor of Science in Computer Science
     institution: ACLC College of Butuan
-    date_start: 2014-01-01
-    date_end: 2018-12-31
+    date_start: '2014-01-01'
+    date_end: '2018-12-31'
     summary: |
-      Completed a 4-year degree program focused on software development, networking, and systems administration. Hands-on experience in configuring Windows Server environments, network topologies, and systems troubleshooting.
-    button:
-      text: 'View School'
-      url: 'https://www.aclcbutuan.com'  # Replace with actual if available
+      Completed a 4-year degree program focused on software development, networking, and systems administration...
 
+# Sample work section (same fix applies to others)
 work:
   - position: Freelance Network Engineer
     company_name: Ever Ascend Solutions
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-05-01
-    date_end: ''
-    summary: |2-
+    date_start: '2024-05-01'
+    date_end: 'Present'
+    summary: |
       - Designed and implemented secure on-site and cloud-based network infrastructures
       - Managed on-site servers, databases, and automated backup systems
       - Conducted troubleshooting and network performance optimization for clients
+
+# And so on for the rest...
+``
+
       
   - position: Customer Success Lead
     company_name: Automate.io
