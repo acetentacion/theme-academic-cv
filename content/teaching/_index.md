@@ -1,8 +1,7 @@
 ---
-title: "My Gallery"
-date: 2024-05-01
-layout: gallery
-image:
-  preview_only: false
+title: "Art Battle Gallery"
+layout: page
+markup: default  # Important!
 ---
 
+{{< figure src="image1.jpg" caption="Jerome Joyce – Aug 25" >}}
