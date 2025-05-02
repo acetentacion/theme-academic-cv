@@ -56,3 +56,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  features:
+    gallery: true
+
