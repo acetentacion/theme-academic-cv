@@ -60,4 +60,6 @@ features:
 params:
   features:
     gallery: true
+  custom_css:
+    - custom.scss
 
