@@ -95,34 +95,76 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Network Engineering
+        description: Designed and implemented secure networks, VLANs, and failover systems.
+        percent: 90
+        icon: globe-alt
+      - name: Windows Server Administration
+        description: Experience with Windows Server 2022, domain services, and scheduled tasks.
+        percent: 85
+        icon: server
+      - name: Cisco Firepower & Security
+        description: Configured Cisco FTD, Firepower 1010, access control, and NAT policies.
         percent: 80
+        icon: shield-check
+      - name: Scripting & Automation
+        description: Automated workflows using Python, batch scripts, and Zapier.
+        percent: 75
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Web Server Management
+        description: Managed Nginx, Let's Encrypt, domain routing, and SSL certificates on Windows.
+        percent: 80
+        icon: globe
+      - name: Database Management
+        description: MySQL backups, optimization, and task scheduling on Windows Server.
+        percent: 70
+        icon: database
+      - name: Graphic Design
+        description: Created posters and event visuals using Adobe tools for Art Battle.
+        percent: 85
+        icon: paintbrush
+      - name: WordPress Management
+        description: Managed and configured WordPress sites, plugins, and content updates.
+        percent: 70
+        icon: layout
+
+  - name: Soft Skills
+    color: '#0055ff'
+    color_border: '#0077ff'
+    items:
+      - name: Communication
+        description: Approachable and clear communicator across technical and non-technical teams.
+        percent: 85
+        icon: chat-bubble-left-ellipsis
+      - name: Problem Solving
+        description: Strong ability to troubleshoot systems and propose efficient solutions.
+        percent: 90
+        icon: light-bulb
+      - name: Documentation
+        description: Writes clear SOPs and system documentation.
+        percent: 80
+        icon: document-text
+      - name: Project Management
+        description: Experienced managing multi-step technical deployments and backups.
+        percent: 75
+        icon: clipboard-document-check
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+      - name: Motorcycle Touring
+        description: Loves long rides and exploring with a Honda ADV 160.
+        percent: 90
+        icon: motorcycle
       - name: Photography
-        description: ''
+        description: Passion for capturing real moments and scenic views.
         percent: 80
         icon: camera
+      - name: Writing
+        description: Shares reflections, quotes, and personal insights on social media.
+        percent: 70
+        icon: pencil-square
 
 languages:
   - name: English
