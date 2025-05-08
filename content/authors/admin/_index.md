@@ -93,37 +93,36 @@ work:
   
 
 skills:
-  - name: Network & Systems
+  - name: Technical Skills
     items:
-      - name: Cisco Firepower / ASA / Switching
-        icon: network-wired
-      - name: Windows Server 2022
-        icon: server
-      - name: pfSense / Netgate Firewalls
-        icon: shield
-      - name: NGINX / IIS Web Hosting
-        icon: globe
-  - name: Automation & Scripting
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
-      - name: PowerShell / Bash / CMD scripting
-        icon: terminal
-      - name: Zapier / Make.com
-        icon: robot
-  - name: Tools & Platforms
-    items:
-      - name: Microsoft 365 / Azure AD
-        icon: cloud
-      - name: Cloudflare DNS / SSL
-        icon: lock
-      - name: hMailServer / SMTP Email Hosting
-        icon: envelope
-  - name: Creative & Design
-    items:
-      - name: Graphic Design (Photoshop, Illustrator, Canva)
-        icon: paint-brush
-      - name: Video Editing (Adobe Premiere, Sony Vegas)
-        icon: video
-
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
