@@ -1,5 +1,5 @@
 ---
-title: "Art Battle Gallery"
+title: "Graphic Designs"
 layout: page
 markup: html
 ---
