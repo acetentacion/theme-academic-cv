@@ -96,43 +96,32 @@ skills:
   - name: Network & Systems
     items:
       - name: Cisco Firepower / ASA / Switching
-        percent: 90
         icon: network-wired
       - name: Windows Server 2022
-        percent: 85
         icon: server
       - name: pfSense / Netgate Firewalls
-        percent: 75
         icon: shield
       - name: NGINX / IIS Web Hosting
-        percent: 80
         icon: globe
   - name: Automation & Scripting
     items:
       - name: PowerShell / Bash / CMD scripting
-        percent: 70
         icon: terminal
       - name: Zapier / Make.com
-        percent: 90
         icon: robot
   - name: Tools & Platforms
     items:
       - name: Microsoft 365 / Azure AD
-        percent: 85
         icon: cloud
       - name: Cloudflare DNS / SSL
-        percent: 90
         icon: lock
       - name: hMailServer / SMTP Email Hosting
-        percent: 75
         icon: envelope
   - name: Creative & Design
     items:
       - name: Graphic Design (Photoshop, Illustrator, Canva)
-        percent: 85
         icon: paint-brush
       - name: Video Editing (Adobe Premiere, Sony Vegas)
-        percent: 80
         icon: video
 
 
