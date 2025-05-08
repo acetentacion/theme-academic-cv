@@ -3,6 +3,8 @@ title: "Graphic Designs"
 layout: page
 markup: html
 ---
+<!-- Heading stays inside the container -->
+<h1 style="text-align: center;">Graphic Designs</h1>
 
 <div class="gallery" style="display: flex; flex-wrap: wrap;">
   <a href="gallery/image1.jpg" data-lightbox="artbattle" data-title="Art Battle Movie Poster">
