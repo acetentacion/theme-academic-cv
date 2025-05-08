@@ -1,5 +1,5 @@
 ---
-title: "Graphic Designs"
+title: ""
 layout: page
 markup: html
 ---
