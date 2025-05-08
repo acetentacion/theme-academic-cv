@@ -134,7 +134,7 @@ skills:
     items:
       - name: Communication
         description: Approachable and clear communicator across technical and non-technical teams.
-        percent: 85
+        percent: 60
         icon: chat-bubble-left-ellipsis
       - name: Problem Solving
         description: Strong ability to troubleshoot systems and propose efficient solutions.
