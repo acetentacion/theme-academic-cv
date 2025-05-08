@@ -16,4 +16,5 @@ markup: html
   </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+{{< lightbox-js >}}
+
