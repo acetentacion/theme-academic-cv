@@ -132,6 +132,9 @@ skills:
         percent: 85
         icon: paint-brush
       - name: Video Editing (Adobe Premiere, Sony Vegas)
+        percent: 80
+        icon: video
+
 
 languages:
   - name: English
