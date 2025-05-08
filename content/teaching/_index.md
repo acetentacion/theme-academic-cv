@@ -4,7 +4,7 @@ layout: page
 markup: html
 ---
 
-<div class="gallery" style="display: flex; flex-wrap: wrap;">
+<div class="gallery">
   <a href="/gallery/image1.jpg" data-lightbox="artbattle" data-title="Jerome Joyce – Aug 25">
     <img src="/gallery/image1.jpg" width="300" style="margin:5px;">
   </a>
@@ -14,5 +14,7 @@ markup: html
   <a href="/gallery/image3.jpg" data-lightbox="artbattle" data-title="Daniel Lanois">
     <img src="/gallery/image3.jpg" width="300" style="margin:5px;">
   </a>
+</div>
+
   <!-- Add more images as needed -->
 </div>
